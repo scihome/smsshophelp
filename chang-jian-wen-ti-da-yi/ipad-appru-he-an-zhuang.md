@@ -1,4 +1,4 @@
-## 2.1 iPad App安装简介
+### 2.1 iPad App如何安装？
 
 1.下载地址：[http://www.pgyer.com/SICOSHIN](http://www.pgyer.com/SICOSHIN)。可用iPad扫描下方二维码
 
@@ -9,6 +9,4 @@
 3.App安装完后，需要对app进行授权。
 
 进入iPad的“设置--通用--设备管理”，选择"Jiangsu Sikexin Furniture Co.,Ltd."，点击“信任”。对app授权完成后，可以开始使用App。
-
-
 
